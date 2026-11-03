@@ -1,3 +1,3 @@
 # Event Manager Pro
 
-Application en ligne : https://cnanmenibondja-spec.github.io/event-manager-pro/
+Application en ligne : https://mroyal-apps.github.io/event-manager-pro/
